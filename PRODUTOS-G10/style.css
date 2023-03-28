@@ -27,11 +27,11 @@
 }
 
 #titulo::before {
-    left: 100%; /* posiciona a linha esquerda */
+    left: 103%; /* posiciona a linha esquerda */
   }
   
 #titulo:after {
-    right: 100%; /* posiciona a linha direita */
+    right: 103%; /* posiciona a linha direita */
   }
 
 
